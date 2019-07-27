@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\Knowledge.Core\Knowledge.Core.csproj" />
+    <ProjectReference Include="..\..\Libraries\Knowledge.Data\Knowledge.Data.csproj" />
+    <ProjectReference Include="..\..\Libraries\Knowledge.Services\Knowledge.Services.csproj" />
+  </ItemGroup>
+
+</Project>

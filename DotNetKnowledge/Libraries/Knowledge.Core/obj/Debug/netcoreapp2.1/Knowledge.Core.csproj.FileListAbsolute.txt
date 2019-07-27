@@ -1,0 +1,8 @@
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\bin\Debug\netcoreapp2.1\Knowledge.Core.deps.json
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\bin\Debug\netcoreapp2.1\Knowledge.Core.dll
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\bin\Debug\netcoreapp2.1\Knowledge.Core.pdb
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\obj\Debug\netcoreapp2.1\Knowledge.Core.csproj.CoreCompileInputs.cache
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\obj\Debug\netcoreapp2.1\Knowledge.Core.AssemblyInfoInputs.cache
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\obj\Debug\netcoreapp2.1\Knowledge.Core.AssemblyInfo.cs
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\obj\Debug\netcoreapp2.1\Knowledge.Core.dll
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Core\obj\Debug\netcoreapp2.1\Knowledge.Core.pdb

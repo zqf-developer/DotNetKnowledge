@@ -1,0 +1,14 @@
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\bin\Debug\netcoreapp2.1\Knowledge.Services.deps.json
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\bin\Debug\netcoreapp2.1\Knowledge.Services.dll
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\bin\Debug\netcoreapp2.1\Knowledge.Services.pdb
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\bin\Debug\netcoreapp2.1\Knowledge.Core.dll
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\bin\Debug\netcoreapp2.1\Knowledge.Data.dll
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\bin\Debug\netcoreapp2.1\Knowledge.Core.pdb
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\bin\Debug\netcoreapp2.1\Knowledge.Data.pdb
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\obj\Debug\netcoreapp2.1\Knowledge.Services.csprojAssemblyReference.cache
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\obj\Debug\netcoreapp2.1\Knowledge.Services.csproj.CoreCompileInputs.cache
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\obj\Debug\netcoreapp2.1\Knowledge.Services.AssemblyInfoInputs.cache
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\obj\Debug\netcoreapp2.1\Knowledge.Services.AssemblyInfo.cs
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\obj\Debug\netcoreapp2.1\Knowledge.Services.csproj.CopyComplete
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\obj\Debug\netcoreapp2.1\Knowledge.Services.dll
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Services\obj\Debug\netcoreapp2.1\Knowledge.Services.pdb

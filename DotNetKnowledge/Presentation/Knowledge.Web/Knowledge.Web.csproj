@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Libraries\Knowledge.Core\Knowledge.Core.csproj" />
+    <ProjectReference Include="..\..\Libraries\Knowledge.Data\Knowledge.Data.csproj" />
+    <ProjectReference Include="..\..\Libraries\Knowledge.Services\Knowledge.Services.csproj" />
+    <ProjectReference Include="..\Knowledge.Web.Framework\Knowledge.Web.Framework.csproj" />
+  </ItemGroup>
+
+</Project>
