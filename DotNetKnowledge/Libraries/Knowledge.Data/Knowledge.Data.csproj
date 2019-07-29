@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.2" />
+    <PackageReference Include="MiniProfiler.EntityFrameworkCore" Version="4.0.133" />
   </ItemGroup>
 
   <ItemGroup>
