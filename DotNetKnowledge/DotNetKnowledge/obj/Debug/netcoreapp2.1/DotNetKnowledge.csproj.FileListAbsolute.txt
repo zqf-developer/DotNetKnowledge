@@ -10,9 +10,9 @@ D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\bin\Debug\n
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\bin\Debug\netcoreapp2.1\Knowledge.Data.pdb
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\bin\Debug\netcoreapp2.1\Knowledge.Services.pdb
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.csprojAssemblyReference.cache
-D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.csproj.CoreCompileInputs.cache
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.AssemblyInfoInputs.cache
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.AssemblyInfo.cs
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.csproj.CopyComplete
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.dll
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.pdb
+D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\DotNetKnowledge\obj\Debug\netcoreapp2.1\DotNetKnowledge.genruntimeconfig.cache

@@ -2,7 +2,7 @@
 
 namespace Knowledge.Services
 {
-    public class Class1
+    public interface IMaterialTransport
     {
     }
 }

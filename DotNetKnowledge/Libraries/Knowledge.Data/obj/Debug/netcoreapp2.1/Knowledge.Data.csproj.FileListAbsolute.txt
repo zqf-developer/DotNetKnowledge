@@ -4,7 +4,6 @@ D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\bi
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\bin\Debug\netcoreapp2.1\Knowledge.Core.dll
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\bin\Debug\netcoreapp2.1\Knowledge.Core.pdb
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\obj\Debug\netcoreapp2.1\Knowledge.Data.csprojAssemblyReference.cache
-D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\obj\Debug\netcoreapp2.1\Knowledge.Data.csproj.CoreCompileInputs.cache
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\obj\Debug\netcoreapp2.1\Knowledge.Data.AssemblyInfoInputs.cache
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\obj\Debug\netcoreapp2.1\Knowledge.Data.AssemblyInfo.cs
 D:\ProfessionalFiles\DotNetKnowledge\DotNetKnowledge\Libraries\Knowledge.Data\obj\Debug\netcoreapp2.1\Knowledge.Data.csproj.CopyComplete
